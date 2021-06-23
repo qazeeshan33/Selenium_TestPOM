@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Veemed\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Veemed\\.nuget\\packages"
+    ]
+  }
+}
